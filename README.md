@@ -1,2 +1,2 @@
-# DbNullHandler
-This class is used to fix null null value in different datatype.
+# DbNullHandler For C#
+This class is used to handle null value in different datatype.
